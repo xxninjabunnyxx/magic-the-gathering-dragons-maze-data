@@ -1,0 +1,116 @@
+---
+object: card
+id: 26417a58-b0c9-49fa-956c-794ee1c09a4f
+oracle_id: 506667b1-7922-4959-a5b3-0f8abe8c3615
+multiverse_ids:
+- 369003
+mtgo_id: 48300
+mtgo_foil_id: 48301
+tcgplayer_id: 67934
+cardmarket_id: 261461
+name: Deadbridge Chant
+lang: en
+released_at: '2013-05-03'
+uri: https://api.scryfall.com/cards/26417a58-b0c9-49fa-956c-794ee1c09a4f
+scryfall_uri: https://scryfall.com/card/dgm/63/deadbridge-chant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.jpg?1562902136
+  normal: https://cards.scryfall.io/normal/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.jpg?1562902136
+  large: https://cards.scryfall.io/large/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.jpg?1562902136
+  png: https://cards.scryfall.io/png/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.png?1562902136
+  art_crop: https://cards.scryfall.io/art_crop/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.jpg?1562902136
+  border_crop: https://cards.scryfall.io/border_crop/front/2/6/26417a58-b0c9-49fa-956c-794ee1c09a4f.jpg?1562902136
+mana_cost: "{4}{B}{G}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: |-
+  When Deadbridge Chant enters the battlefield, mill ten cards.
+  At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords:
+- Mill
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c8bd8520-cd98-45cd-b533-8d40c2087426
+set: dgm
+set_name: Dragon's Maze
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c8bd8520-cd98-45cd-b533-8d40c2087426
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dgm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/26417a58-b0c9-49fa-956c-794ee1c09a4f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A506667b1-7922-4959-a5b3-0f8abe8c3615&unique=prints
+collector_number: '63'
+digital: false
+rarity: mythic
+watermark: golgari
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+illustration_id: b59e4ebe-98a2-4f3f-b0da-9400476b2f3f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3325
+penny_rank: 14143
+prices:
+  usd: '0.82'
+  usd_foil: '5.82'
+  usd_etched: 
+  eur: '0.79'
+  eur_foil: '5.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369003
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deadbridge+Chant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deadbridge+Chant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deadbridge+Chant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67934?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deadbridge+Chant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48300?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

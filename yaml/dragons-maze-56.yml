@@ -1,0 +1,131 @@
+---
+object: card
+id: 5e179f0d-2965-44e4-8483-67b330a8608c
+oracle_id: 92e2f982-f8b9-4c3b-ab50-14c025370e5c
+multiverse_ids:
+- 369047
+mtgo_id: 48440
+mtgo_foil_id: 48441
+tcgplayer_id: 67996
+cardmarket_id: 261535
+name: Blaze Commando
+lang: en
+released_at: '2013-05-03'
+uri: https://api.scryfall.com/cards/5e179f0d-2965-44e4-8483-67b330a8608c
+scryfall_uri: https://scryfall.com/card/dgm/56/blaze-commando?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362
+  normal: https://cards.scryfall.io/normal/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362
+  large: https://cards.scryfall.io/large/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362
+  png: https://cards.scryfall.io/png/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.png?1562912362
+  art_crop: https://cards.scryfall.io/art_crop/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362
+  border_crop: https://cards.scryfall.io/border_crop/front/5/e/5e179f0d-2965-44e4-8483-67b330a8608c.jpg?1562912362
+mana_cost: "{3}{R}{W}"
+cmc: 5.0
+type_line: Creature — Minotaur Soldier
+oracle_text: Whenever an instant or sorcery spell you control deals damage, create
+  two 1/1 red and white Soldier creature tokens with haste.
+power: '5'
+toughness: '3'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 6d49a56f-2a5e-4d42-b75c-f3f3735829d3
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/6d49a56f-2a5e-4d42-b75c-f3f3735829d3
+- object: related_card
+  id: 5e179f0d-2965-44e4-8483-67b330a8608c
+  component: combo_piece
+  name: Blaze Commando
+  type_line: Creature — Minotaur Soldier
+  uri: https://api.scryfall.com/cards/5e179f0d-2965-44e4-8483-67b330a8608c
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c8bd8520-cd98-45cd-b533-8d40c2087426
+set: dgm
+set_name: Dragon's Maze
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c8bd8520-cd98-45cd-b533-8d40c2087426
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dgm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5e179f0d-2965-44e4-8483-67b330a8608c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92e2f982-f8b9-4c3b-ab50-14c025370e5c&unique=prints
+collector_number: '56'
+digital: false
+rarity: uncommon
+watermark: boros
+flavor_text: A true Boros commando only calls for reinforcements so they can clean
+  up the mess.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Ryman
+artist_ids:
+- 3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5
+illustration_id: 212c813a-90ea-4f65-848e-2e80062acc0c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13179
+penny_rank: 6746
+prices:
+  usd: '0.12'
+  usd_foil: '0.54'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.30'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369047
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blaze+Commando&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blaze+Commando&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blaze+Commando
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67996?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blaze+Commando&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48440?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

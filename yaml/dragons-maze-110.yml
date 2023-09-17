@@ -1,0 +1,142 @@
+---
+object: card
+id: 1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3
+oracle_id: 874e0b54-bc24-4887-abe1-1ecfd3a3abae
+multiverse_ids:
+- 369072
+mtgo_id: 48210
+mtgo_foil_id: 48211
+tcgplayer_id: 67899
+cardmarket_id: 261332
+name: Trostani's Summoner
+lang: en
+released_at: '2013-05-03'
+uri: https://api.scryfall.com/cards/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3
+scryfall_uri: https://scryfall.com/card/dgm/110/trostanis-summoner?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.jpg?1562899737
+  normal: https://cards.scryfall.io/normal/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.jpg?1562899737
+  large: https://cards.scryfall.io/large/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.jpg?1562899737
+  png: https://cards.scryfall.io/png/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.png?1562899737
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.jpg?1562899737
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3.jpg?1562899737
+mana_cost: "{5}{G}{W}"
+cmc: 7.0
+type_line: Creature — Elf Shaman
+oracle_text: When Trostani's Summoner enters the battlefield, create a 2/2 white Knight
+  creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green
+  Rhino creature token with trample.
+power: '1'
+toughness: '1'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: f4035134-a162-4651-86c5-ae006b6e0e20
+  component: token
+  name: Knight
+  type_line: Token Creature — Knight
+  uri: https://api.scryfall.com/cards/f4035134-a162-4651-86c5-ae006b6e0e20
+- object: related_card
+  id: 1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3
+  component: combo_piece
+  name: Trostani's Summoner
+  type_line: Creature — Elf Shaman
+  uri: https://api.scryfall.com/cards/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3
+- object: related_card
+  id: bc651dc2-9a3b-470c-b415-ecce0a725433
+  component: token
+  name: Rhino
+  type_line: Token Creature — Rhino
+  uri: https://api.scryfall.com/cards/bc651dc2-9a3b-470c-b415-ecce0a725433
+- object: related_card
+  id: 733268ab-9ec0-4838-9a02-5a95dab3a400
+  component: token
+  name: Centaur
+  type_line: Token Creature — Centaur
+  uri: https://api.scryfall.com/cards/733268ab-9ec0-4838-9a02-5a95dab3a400
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c8bd8520-cd98-45cd-b533-8d40c2087426
+set: dgm
+set_name: Dragon's Maze
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c8bd8520-cd98-45cd-b533-8d40c2087426
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dgm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1921fa4e-2256-4ef1-b2fe-874f9fbbcdf3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A874e0b54-bc24-4887-abe1-1ecfd3a3abae&unique=prints
+collector_number: '110'
+digital: false
+rarity: uncommon
+watermark: selesnya
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: e9b3b20f-ec73-4552-990b-211614c2cbee
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10045
+penny_rank: 3800
+prices:
+  usd: '0.08'
+  usd_foil: '0.60'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369072
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trostani%27s+Summoner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trostani%27s+Summoner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Trostani%27s+Summoner
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67899?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trostani%27s+Summoner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48210?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
